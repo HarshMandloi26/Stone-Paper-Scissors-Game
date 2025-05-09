@@ -3,7 +3,11 @@ A simple and interactive Stone Paper Scissors (also known as Rock Paper Scissors
 
 Features:
 1.Play against a computer opponent
+
 2.Randomized computer choices
+
 3.Visual feedback for win/lose/draw
+
 4.Simple and responsive UI
+
 5.Easy-to-understand game logic
